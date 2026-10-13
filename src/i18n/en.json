@@ -1,0 +1,158 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "whyUs": "Why us",
+    "contact": "Contact",
+    "call": "Call",
+    "lang": "DE"
+  },
+  "hero": {
+    "location": "Hannover & Surroundings",
+    "title": "Everything from one source.",
+    "subtitle": "Assembly, drywall, flooring, property management, moving & clearing — fast, fair and reliable.",
+    "ctaPrimary": "Free consultation",
+    "ctaSecondary": "Request now",
+    "trust1": "Fast appointments",
+    "trust2": "Fair prices",
+    "trust3": "Full Service",
+    "rating": "Excellent",
+    "ratingText": "Google Reviews",
+    "scroll": "Scroll"
+  },
+  "services": {
+    "title": "Our services — professionally executed",
+    "subtitle": "From assembly to relocation — we take care of every detail.",
+    "details": "Details",
+    "items": {
+      "montage": {
+        "title": "Assembly Service",
+        "desc": "Professional assembly of furniture, kitchens and fixtures — clean and on schedule."
+      },
+      "trockenbau": {
+        "title": "Drywall Construction",
+        "desc": "Walls, ceilings and room dividers made of drywall — precisely crafted and smoothly plastered."
+      },
+      "boden": {
+        "title": "Laminate Flooring",
+        "desc": "Even and durable floor installation — professionally laid with attention to detail."
+      },
+      "hausmeister": {
+        "title": "Property Management",
+        "desc": "Repair, maintenance and upkeep of your property — reliable and regular."
+      },
+      "umzug": {
+        "title": "Moving & Clearing",
+        "desc": "Stress-free moving and professional clearing — we clear it, you sit back."
+      }
+    }
+  },
+  "ratgeber": {
+    "title": "Practical guides for your project",
+    "subtitle": "Tips and knowledge to make your project run smoothly.",
+    "articles": {
+      "1": { "title": "Costs — what to expect", "desc": "Transparent cost breakdown for every service." },
+      "2": { "title": "Checklist for your project", "desc": "Everything you should prepare in advance." },
+      "3": { "title": "Avoid common mistakes", "desc": "How to avoid typical pitfalls." },
+      "4": { "title": "Save money — the right way", "desc": "Where investments really pay off." },
+      "5": { "title": "Schedule and timeline", "desc": "Realistic scheduling for your project." },
+      "6": { "title": "Preparation is everything", "desc": "What you can do before we arrive." }
+    },
+    "readMore": "Read"
+  },
+  "beforeAfter": {
+    "title": "From chaos to order — see for yourself",
+    "subtitle": "Drag the slider and see the difference.",
+    "before": "Before",
+    "after": "After",
+    "drag": "Drag"
+  },
+  "gallery": {
+    "title": "Insights into our daily work",
+    "subtitle": "Professional and reliable — see for yourself.",
+    "view": "View"
+  },
+  "stats": {
+    "title": "Bautech in numbers",
+    "items": {
+      "1": { "value": 850, "suffix": "+", "label": "Satisfied customers" },
+      "2": { "value": 98, "suffix": "%", "label": "Reliable & on time" },
+      "3": { "value": 12, "suffix": "+", "label": "Years of experience" }
+    }
+  },
+  "whyUs": {
+    "title": "Your advantages — from the first request to successful completion",
+    "subtitle": "Why hundreds of customers choose Bautech.",
+    "items": {
+      "1": { "title": "Fair Prices", "desc": "Transparent cost breakdown, no hidden fees." },
+      "2": { "title": "Stress-free", "desc": "We take care of everything — you sit back." },
+      "3": { "title": "Flexible Planning", "desc": "Even short-term appointments are possible." },
+      "4": { "title": "Full Service", "desc": "Everything from one source — from assembly to clearing." }
+    }
+  },
+  "process": {
+    "title": "To the result in four simple steps",
+    "subtitle": "It's that simple.",
+    "steps": {
+      "1": { "title": "Request", "desc": "You contact us by phone, email or form." },
+      "2": { "title": "Planning", "desc": "We discuss your project and create a fair quote." },
+      "3": { "title": "Execution", "desc": "Our pros do the work cleanly and on time." },
+      "4": { "title": "Completion", "desc": "You check the result — and are satisfied." }
+    }
+  },
+  "team": {
+    "title": "Friendly, professional and experienced",
+    "subtitle": "The people behind Bautech.",
+    "members": {
+      "1": { "name": "Marco Bauer", "role": "CEO & Assembly" },
+      "2": { "name": "Stefan Wolf", "role": "Drywall & Flooring" },
+      "3": { "name": "Daniel Roth", "role": "Property Management" },
+      "4": { "name": "Lukas Kraft", "role": "Moving & Clearing" }
+    }
+  },
+  "testimonials": {
+    "title": "What our customers say",
+    "subtitle": "Real voices from real projects.",
+    "summary": {
+      "rating": "4.9/5",
+      "happy": "Happy Clients",
+      "recommendation": "Recommendation rate"
+    },
+    "allReviews": "See all reviews",
+    "writeReview": "Write a review",
+    "items": {
+      "1": { "text": "Very professional work. The kitchen was perfectly assembled and everything was left clean. Highly recommended!", "name": "Andrea M.", "date": "March 2026" },
+      "2": { "text": "Punctual, reliable and fair prices. The drywall was completed within the promised time.", "name": "Thomas K.", "date": "February 2026" },
+      "3": { "text": "The move went completely stress-free. The team was friendly and extremely careful. Top!", "name": "Sandra L.", "date": "January 2026" },
+      "4": { "text": "Best decision to hire Bautech. From request to execution, everything was perfectly organized.", "name": "Michael R.", "date": "December 2025" }
+    }
+  },
+  "ctaBand": {
+    "title": "Ready for your project?",
+    "subtitle": "Secure a free quote now.",
+    "button": "Request now",
+    "marquee": "ASSEMBLY · DRYWALL · FLOORING · SERVICE · MOVING · "
+  },
+  "contact": {
+    "title": "Talk to us — we're here for you",
+    "subtitle": "Call us or write to us.",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Opening hours",
+    "hoursValue": "Mon–Sat 08:00–20:00\nSun/Holiday by arrangement"
+  },
+  "footer": {
+    "desc": "Professional services in Germany",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "legal": "Imprint",
+    "privacy": "Privacy Policy",
+    "agb": "Terms",
+    "rights": "© Bautech — All rights reserved"
+  },
+  "floating": {
+    "whatsapp": "Request now",
+    "call": "Call"
+  }
+}
