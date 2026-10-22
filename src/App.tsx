@@ -31,7 +31,6 @@ function App() {
         <Stats />
         <WhyUs />
         <Process />
-        <Team />
         <Testimonials />
         <CTABand />
         <Contact />
