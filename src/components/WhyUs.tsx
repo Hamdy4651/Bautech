@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion';
-import { Euro, Smile, Calendar, Layers } from 'lucide-react';
+import { ShieldCheck, Smile, Calendar, Layers } from 'lucide-react';
 import { useI18n } from '@/i18n';
 
-const icons = [Euro, Smile, Calendar, Layers];
+const icons = [ShieldCheck, Smile, Calendar, Layers];
 
 export default function WhyUs() {
   const { t } = useI18n();

@@ -15,6 +15,7 @@
     "ctaPrimary": "Kostenlose Beratung",
     "ctaSecondary": "Sofort anfragen",
     "trust1": "Schnelle Termine",
+    "trust2": "Höchste Qualität",
     "trust3": "Full Service",
     "rating": "Ausgezeichnet",
     "ratingText": "Google Bewertungen",
@@ -51,12 +52,30 @@
     "title": "Praktische Ratgeber für Ihr Projekt",
     "subtitle": "Tipps und Wissen, damit Ihr Projekt reibungslos verläuft.",
     "articles": {
-      "1": { "title": "Kosten — was erwarten Sie", "desc": "Transparente Kostenaufstellung für jede Leistung." },
-      "2": { "title": "Checkliste für Ihr Projekt", "desc": "Alles, was Sie vorab vorbereiten sollten." },
-      "3": { "title": "Häufige Fehler vermeiden", "desc": "So umgehen Sie typische Fallstricke." },
-      "4": { "title": "Geld sparen — aber richtig", "desc": "Wo sich Investitionen wirklich lohnen." },
-      "5": { "title": "Zeitplan und Ablauf", "desc": "Realistische Zeitplanung für Ihr Projekt." },
-      "6": { "title": "Vorbereitung ist alles", "desc": "Was Sie vor unserem Einsatz erledigen können." }
+      "1": {
+        "title": "Kosten — was erwarten Sie",
+        "desc": "Transparente Kostenaufstellung für jede Leistung."
+      },
+      "2": {
+        "title": "Checkliste für Ihr Projekt",
+        "desc": "Alles, was Sie vorab vorbereiten sollten."
+      },
+      "3": {
+        "title": "Häufige Fehler vermeiden",
+        "desc": "So umgehen Sie typische Fallstricke."
+      },
+      "4": {
+        "title": "Geld sparen — aber richtig",
+        "desc": "Wo sich Investitionen wirklich lohnen."
+      },
+      "5": {
+        "title": "Zeitplan und Ablauf",
+        "desc": "Realistische Zeitplanung für Ihr Projekt."
+      },
+      "6": {
+        "title": "Vorbereitung ist alles",
+        "desc": "Was Sie vor unserem Einsatz erledigen können."
+      }
     },
     "readMore": "Lesen"
   },
@@ -84,20 +103,44 @@
     "title": "Ihre Vorteile — von der ersten Anfrage bis zum erfolgreichen Abschluss",
     "subtitle": "Warum sich hunderte Kunden für Bautech entscheiden.",
     "items": {
-      "1": { "title": "Faire Preise", "desc": "Transparente Kostenaufstellung, keine versteckten Gebühren." },
-      "2": { "title": "Stressfrei", "desc": "Wir kümmern uns um alles — Sie lehnen sich zurück." },
-      "3": { "title": "Flexible Planung", "desc": "Auch kurzfristige Termine sind möglich." },
-      "4": { "title": "Full Service", "desc": "Alles aus einer Hand — von Montage bis Entrümpelung." }
+      "1": {
+        "title": "Höchste Qualität",
+        "desc": "Präzise Arbeit, hochwertige Materialien und zuverlässige Ergebnisse."
+      },
+      "2": {
+        "title": "Stressfrei",
+        "desc": "Wir kümmern uns um alles — Sie lehnen sich zurück."
+      },
+      "3": {
+        "title": "Flexible Planung",
+        "desc": "Auch kurzfristige Termine sind möglich."
+      },
+      "4": {
+        "title": "Full Service",
+        "desc": "Alles aus einer Hand — von Montage bis Entrümpelung."
+      }
     }
   },
   "process": {
     "title": "In vier einfachen Schritten zum Ergebnis",
     "subtitle": "So einfach funktioniert es.",
     "steps": {
-      "1": { "title": "Anfrage", "desc": "Sie kontaktieren uns per Telefon, E-Mail oder Formular." },
-      "2": { "title": "Planung", "desc": "Wir besprechen Ihr Projekt und erstellen ein faires Angebot." },
-      "3": { "title": "Ausführung", "desc": "Unsere Profis führen die Arbeit sauber und pünktlich aus." },
-      "4": { "title": "Abschluss", "desc": "Sie prüfen das Ergebnis — und sind zufrieden." }
+      "1": {
+        "title": "Anfrage",
+        "desc": "Sie kontaktieren uns per Telefon, E-Mail oder Formular."
+      },
+      "2": {
+        "title": "Planung",
+        "desc": "Wir besprechen Ihr Projekt und erstellen ein faires Angebot."
+      },
+      "3": {
+        "title": "Ausführung",
+        "desc": "Unsere Profis führen die Arbeit sauber und pünktlich aus."
+      },
+      "4": {
+        "title": "Abschluss",
+        "desc": "Sie prüfen das Ergebnis — und sind zufrieden."
+      }
     }
   },
   "team": {
@@ -121,10 +164,26 @@
     "allReviews": "Alle Bewertungen ansehen",
     "writeReview": "Bewertung schreiben",
     "items": {
-      "1": { "text": "Sehr professionelle Arbeit. Die Küche wurde perfekt montiert und alles sauber hinterlassen. Absolut empfehlenswert!", "name": "Andrea M.", "date": "März 2026" },
-      "2": { "text": "Pünktlich, zuverlässig und faire Preise. Der Trockenbau wurde in der versprochenen Zeit fertiggestellt.", "name": "Thomas K.", "date": "Februar 2026" },
-      "3": { "text": "Der Umzug verlief völlig stressfrei. Das Team war freundlich und extrem sorgfältig. Top!", "name": "Sandra L.", "date": "Januar 2026" },
-      "4": { "text": "Beste Entscheidung, Bautech zu beauftragen. Von der Anfrage bis zur Ausführung alles top organisiert.", "name": "Michael R.", "date": "Dezember 2025" }
+      "1": {
+        "text": "Sehr professionelle Arbeit. Die Küche wurde perfekt montiert und alles sauber hinterlassen. Absolut empfehlenswert!",
+        "name": "Andrea M.",
+        "date": "März 2026"
+      },
+      "2": {
+        "text": "Pünktlich, zuverlässig und höchste Qualität. Der Trockenbau wurde in der versprochenen Zeit fertiggestellt.",
+        "name": "Thomas K.",
+        "date": "Februar 2026"
+      },
+      "3": {
+        "text": "Der Umzug verlief völlig stressfrei. Das Team war freundlich und extrem sorgfältig. Top!",
+        "name": "Sandra L.",
+        "date": "Januar 2026"
+      },
+      "4": {
+        "text": "Beste Entscheidung, Bautech zu beauftragen. Von der Anfrage bis zur Ausführung alles top organisiert.",
+        "name": "Michael R.",
+        "date": "Dezember 2025"
+      }
     }
   },
   "ctaBand": {

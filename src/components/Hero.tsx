@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Phone, ArrowDown, Star, Clock, Euro, Layers, Play } from 'lucide-react';
+import { Phone, ArrowDown, Star, Clock, ShieldCheck, Layers, Play } from 'lucide-react';
 import { useI18n } from '@/i18n';
 import { IMAGES, COMPANY } from '@/lib/data';
 import { useScrollDirection, usePrefersReducedMotion } from '@/lib/hooks';
@@ -32,7 +32,7 @@ export default function Hero() {
 
   const trustChips = [
     { icon: Clock, label: t.hero.trust1 },
-    { icon: Euro, label: t.hero.trust2 },
+    { icon: ShieldCheck, label: t.hero.trust2 },
     { icon: Layers, label: t.hero.trust3 },
   ];
 
